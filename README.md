@@ -3,6 +3,7 @@
 
 **Certified Ethical Hacker (CEH)** • Penetration tester • Red Team practitioner  
 I build practical tools, lab environments, and publish technical write-ups focused on offensive security and secure development.
+![HolyScriipt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HolyScriipt&theme=dark&hide_border=true)
 
 ---
 
@@ -51,6 +52,5 @@ I publish step-by-step exploitation write-ups that include:
 - Most repos: **MIT License** (check each repo root)  
 - Contributions: Open to focused, tested PRs. See `CONTRIBUTING.md` per repo.
 
-![HolyScriipt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HolyScriipt&theme=dark&hide_border=true)
 
 —
