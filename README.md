@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Abdulrahman "Holy" Khalifa — Cybersecurity Specialist
+#  "Holy" Khalifa — Cybersecurity Specialist
 
 **Certified Ethical Hacker (CEH)** • Penetration tester • Red Team practitioner  
 I build practical tools, lab environments, and publish technical write-ups focused on offensive security and secure development.
